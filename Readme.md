@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://mrhrs.xyz"><img src="https://media.discordapp.net/attachments/1105785961536827394/1156617133866889316/HrS-Text.png?ex=65159f25&is=65144da5&hm=1f6361962d958fba6c82a5dbfc9901c24642d2d8f156c7d2198ac73054142947&=&width=1440&height=492" width="546" alt="mrhrs" /></a>
+		<a href="https://mrhrs.xyz"><img src="./images/HrSTextLogo.png" width="546" alt="mrhrs" /></a>
 	</p>
 	<br />
 	<p>
@@ -78,7 +78,7 @@ PORT=3005
 
 # التحديث الجاي في شراء البروجكتات 💸
 
-![Prodacts](./Products-2.jpg)
+![Prodacts](./images/Products-2.jpg)
 
 ## روابط مواقع التواصل الاجتماعي 🌐
 
