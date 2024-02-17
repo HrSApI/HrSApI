@@ -9,7 +9,6 @@
         <a href="https://youtube.com/@Mr_HrS"><img src="https://img.shields.io/youtube/channel/subscribers/UCVmz5jIwiQEXv0sGw1fPIbQ" alt="Youtube Subscribers" /></a>
 		<img src="https://komarev.com/ghpvc/?username=HrSApI" alt="views on github" />
 		<a href="https://paypal.me/MMahmoud345?country.x=SA&locale.x=ar_EG"><img src="https://img.shields.io/badge/-donate-blue.svg?logo=paypal&style=for-the-badge" alt="NPM downloads" /></a>
-
     </p>
 
 </div>
