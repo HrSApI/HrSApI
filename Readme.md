@@ -81,6 +81,13 @@ PORT=3005
 
 ![Prodacts](./images/Products-2.jpg)
 
+# حسابي ديسكورد ❤️
+
+<a
+href="https://discord.com/users/1105670596525834250" target="_blank">
+<img width="100%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1105670596525834250">
+</a>
+
 ## روابط مواقع التواصل الاجتماعي 🌐
 
 - ### [Discord](https://discord.gg/6CuMuv5Yzg)
