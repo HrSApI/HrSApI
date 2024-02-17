@@ -7,8 +7,11 @@
 	<p>
 		<a href="https://discord.gg/6CuMuv5Yzg"><img src="https://img.shields.io/discord/977544174125609010?logo=discord&color=5865F2" alt="Discord server" /></a>
         <a href="https://youtube.com/@Mr_HrS"><img src="https://img.shields.io/youtube/channel/subscribers/UCVmz5jIwiQEXv0sGw1fPIbQ" alt="Youtube Subscribers" /></a>
+		<img src="https://komarev.com/ghpvc/?username=HrSApI" alt="views on github" />
 		<a href="https://paypal.me/MMahmoud345?country.x=SA&locale.x=ar_EG"><img src="https://img.shields.io/badge/-donate-blue.svg?logo=paypal&style=for-the-badge" alt="NPM downloads" /></a>
-	</p>
+
+    </p>
+
 </div>
 
 ## السلام عليكم ورحمة الله وبركاته 💡
@@ -81,9 +84,17 @@ PORT=3005
 
 ![Prodacts](./images/Products-2.jpg)
 
-# حسابي ديسكورد ❤️
+# احصائياتي و حساباتي 📁
 
-[![MyDiscordAccount](https://lanyard.cnrad.dev/api/1105670596525834250)](https://discord.com/users/1105670596525834250)
+<div align="center">
+
+ <p align="center">
+	<img src="https://lanyard.cnrad.dev/api/1105670596525834250"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=HrSApI&show_icons=true&theme=tokyonight&count_private=true"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrSApI&layout=compact&theme=tokyonight"/>
+ </p>
+
+</div>
 
 ## روابط مواقع التواصل الاجتماعي 🌐
 
