@@ -83,10 +83,7 @@ PORT=3005
 
 # حسابي ديسكورد ❤️
 
-<a
-href="https://discord.com/users/1105670596525834250" target="_blank">
-<img width="100%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1105670596525834250">
-</a>
+[![MyDiscordAccount](https://lanyard.cnrad.dev/api/1105670596525834250)](https://discord.com/users/1105670596525834250)
 
 ## روابط مواقع التواصل الاجتماعي 🌐
 
