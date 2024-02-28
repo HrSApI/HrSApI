@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://mrhrs.xyz"><img src="./images/HrSTextLogo1.png" width="546" alt="mrhrs" /></a>
+		<a href="https://mrhrs.xyz"><img src="./images/HrSTextLogo.png" width="546" alt="mrhrs" /></a>
 	</p>
 	<br />
 	<p>
